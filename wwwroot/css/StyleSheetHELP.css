@@ -1,0 +1,76 @@
+﻿body {
+}
+.centr {
+    position: absolute;
+    text-decoration-color: #0F1C49;
+}
+.photoHotel img{
+    border-radius: 20px;
+}
+.motivation {
+    margin-left: 730px;
+}
+.motivationH2 {
+    margin-top: 65px;
+    margin-bottom: 50px;
+    color: #0F1C49;
+    font-family: Noto Serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    align-content: center;
+    width: 350px;
+    /*position: absolute;
+    /* padding-top: 74px;*/
+    /* top: 74px;*/
+    /*left: 100px;*/
+}
+.motivationH4 {
+    padding-bottom: 30px;
+    /*position: absolute;*/
+
+    color: #0F1C49;
+    font-family: NovaMono;
+    font-style: normal;
+    font-size: 20px;
+    
+    /*line-height: 45px;*/
+    display: flex;
+    text-align: left;
+    width: 350px;
+    /* padding-top: 74px;*/
+    /* top: 74px;*/
+    /*left: 100px;*/
+}
+.photoHotel {
+    position: absolute;
+    margin-top: 40px;
+}
+.information {
+    position: absolute;
+    text-align: center;
+    display: flex;
+    /* margin-top: 460px;
+    width: 1080px;*/
+}
+.inf1 {
+    position: absolute;
+    /*display: flex;*/
+    width: 350px;
+   
+    /* margin-left: 100px;*/
+    /* width: 350px;*/
+}
+.inf2 {
+    position: absolute;
+    /*display: flex;*/
+    margin-left: 400px;
+    width: 250px;
+}
+.inf3 {
+    position: absolute;
+    /*display: flex;*/
+    width: 350px;
+    margin-left: 700px;
+    /*width: 350px;*/
+}
